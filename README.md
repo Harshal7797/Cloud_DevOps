@@ -15,13 +15,12 @@ Describe your project at a high level (microserver, psql, java)
   
 # Cloud Architecture Diagram  
 - trading app diagram  
-  - use [draw.io](http://draw.io/) and aws icons (it's in the [draw.io](http://draw.io/) library)  
-  - include ec2, alb, auto scaling, target group, rds  
-  - security groups  
-  - label all important ports(e.g. ALB HTTP, ec2 tpc:5000, RDS tcp:5432)  
+ ![Cloud Architecture](https://user-images.githubusercontent.com/51926543/62840292-136b5c80-bc66-11e9-8201-5c00624890ed.png)
+
     
 # AWS EB and Jenkins CI/CD Pipeline Diagram  
 - Please refer to Jenkins guide architecture diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjUxMjc3LC0xMDgxOTYzMTY5XX0=
+eyJoaXN0b3J5IjpbLTQyMTgyNTI3MSwtNDM2NTEyNzcsLTEwOD
+E5NjMxNjldfQ==
 -->
