@@ -4,11 +4,8 @@ Describe your project at a high level (microserver, psql, java)
   
 # Docker Architecture Diagram  
 - trading_app docker diagram including:  
- - use [draw.io](http://draw.io/) and AWS icons (it's already in [draw.io](http://draw.io/) library)  
- - images (docker hub and local)  
- - bridge network  
- - containers  
- - label commands  
+![Docker_arch](https://user-images.githubusercontent.com/51926543/62839892-773e5700-bc5f-11e9-9830-577b6c7328d9.png)
+
   
 - Two docker files  
   - trading-app  
@@ -26,5 +23,5 @@ Describe your project at a high level (microserver, psql, java)
 # AWS EB and Jenkins CI/CD Pipeline Diagram  
 - Please refer to Jenkins guide architecture diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE5NjMxNjldfQ==
+eyJoaXN0b3J5IjpbLTQzNjUxMjc3LC0xMDgxOTYzMTY5XX0=
 -->
