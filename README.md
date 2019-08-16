@@ -15,12 +15,13 @@ Describe your project at a high level (microserver, psql, java)
   
 # Cloud Architecture Diagram  
 - trading app diagram  
- ![Cloud Architecture](https://user-images.githubusercontent.com/51926543/62840292-136b5c80-bc66-11e9-8201-5c00624890ed.png)
+ ![Cloud Architecture](https://user-images.githubusercontent.com/51926543/63170125-96920700-c006-11e9-8a25-c0809d51c28e.png)
+
 
     
 # AWS EB and Jenkins CI/CD Pipeline Diagram  
 - Please refer to Jenkins guide architecture diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTgyNTI3MSwtNDM2NTEyNzcsLTEwOD
-E5NjMxNjldfQ==
+eyJoaXN0b3J5IjpbLTExMzg4MDMyMTksLTQyMTgyNTI3MSwtND
+M2NTEyNzcsLTEwODE5NjMxNjldfQ==
 -->
